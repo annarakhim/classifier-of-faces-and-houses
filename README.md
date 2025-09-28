@@ -8,4 +8,5 @@
 Алгоритм классификации: Linear Discriminant Analysis (LDA)
 Валидация: 5-fold кросс-валидация
 Точность классификации: 83% на независимой тестовой выборке
-Источник датасета https://osf.io/argh7/download
+
+Источник датасета: https://osf.io/argh7/download
